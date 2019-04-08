@@ -1,2 +1,2 @@
-# Portfoliov2
-updated portfolio 
+# Portfolio
+updated portfolio with projects and resume 
